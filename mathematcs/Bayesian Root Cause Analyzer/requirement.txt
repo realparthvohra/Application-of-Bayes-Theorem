@@ -1,0 +1,2 @@
+!. --> some experience in Python programming language.
+2. --> Basic Understanding of Bayes Theorem
